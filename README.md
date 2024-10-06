@@ -14,9 +14,9 @@ To create a post with files and text, you need to write messages and send files 
 
  ![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png?inline=false)
 ![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy.png?inline=false) 
-![изображение](https://github.com/evembar/replycator/assets/78268817/2d7e78ce-094b-42a6-a4a4-4af892ce2af6)
-![изображение](https://github.com/evembar/replycator/assets/78268817/52dfc3c6-7621-48fe-9f55-6118cb02cfc3)
-![изображение](https://github.com/evembar/replycator/assets/78268817/cc50028b-54ef-4bf5-8da6-5d8ad5c880a7)
+![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy%204.png?inline=false)
+![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy%203.png?inline=false)
+![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy%202.png?inline=false)
 ![изображение](https://github.com/evembar/replycator/assets/78268817/a1a151c1-e407-4ba1-bd4e-fadb88ab68b7)
 
 
