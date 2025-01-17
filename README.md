@@ -12,14 +12,9 @@ The run rules are designed to check whether you are using this social network or
 
 To create a post with files and text, you need to write messages and send files to the bot's personal chat. You can use /help to find out the purpose of the commands
 
- ![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png?inline=false)
-![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy.png?inline=false) 
-![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy%204.png?inline=false)
-![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy%203.png?inline=false)
-![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy%202.png?inline=false)
-![изображение](https://gitlab.com/evembar/replycator/-/raw/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20copy%205.png?inline=false)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/632f97a3-a6de-4dbc-ab77-ca10c2f02019)
+![image](https://github.com/user-attachments/assets/ebac01e0-040b-40bb-9242-1495aecd977d)
+![image](https://github.com/user-attachments/assets/fe935655-e498-4d76-b2cd-b85b210ba231)
+![image](https://github.com/user-attachments/assets/3457e40a-e741-4cab-a595-d8d48926b6b3)
+![image](https://github.com/user-attachments/assets/47a82d02-d3a6-48b6-b4cb-816e43344ae8)
+![image](https://github.com/user-attachments/assets/2a1e9b53-2018-4099-9ecc-6bd0a099fb42)
